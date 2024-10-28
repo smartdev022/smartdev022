@@ -13,6 +13,7 @@ I am also proficient in JavaScript/TypeScript, working with frameworks such as R
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smartdev022&theme=dark&hide_border=false&include_all_commits=true&count_private=true&token="")
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smartdev022&theme=dark&hide_border=false)
 
+![snake gif](https://github.com/igdev116/igdev116/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **smartdev022/smartdev022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
