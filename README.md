@@ -1,11 +1,14 @@
 ## Hi there 👋
 
+I am a Full-Stack Developer with 7 years of experience in Python and Rust, and 5 years in Blockchain/Web3 development, making me a strong fit for blockchain roles. With expertise in Rust and Solidity, I specialize in smart contract development for Ethereum, Cosmos, Polkadot, Solana, Terra, Binance Smart Chain, Polygon, and Fantom. I have extensive experience building DApps using Ether.js, CosmJS, Terra.js, and Web3.js, along with a solid background in backend and application development with Rust and Python frameworks like Django and Flask.
+
+I am also proficient in JavaScript/TypeScript, working with frameworks such as React, Next.js, Vue.js, Node, Express, and NestJS, as well as TensorFlow.js for machine learning applications. Since graduating from university, I have joined various companies and teams to build web and mobile apps, recently focusing my passion on DeFi DApp and NFT marketplace development. I am a strong communicator, dedicated to continuous learning and improvement, and I am excited about the opportunity to contribute to innovative blockchain projects with like-minded teams.
+
+
 <!--
 **smartdev022/smartdev022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--  I am a Full-Stack Developer with 7 years of experience in Python and Rust, and 5 years in Blockchain/Web3 development, making me a strong fit for blockchain roles. With expertise in Rust and Solidity, I specialize in smart contract development for Ethereum, Cosmos, Polkadot, Solana, Terra, Binance Smart Chain, Polygon, and Fantom. I have extensive experience building DApps using Ether.js, CosmJS, Terra.js, and Web3.js, along with a solid background in backend and application development with Rust and Python frameworks like Django and Flask.
 
--  I am also proficient in JavaScript/TypeScript, working with frameworks such as React, Next.js, Vue.js, Node, Express, and NestJS, as well as TensorFlow.js for machine learning applications. Since graduating from university, I have joined various companies and teams to build web and mobile apps, recently focusing my passion on DeFi DApp and NFT marketplace development. I am a strong communicator, dedicated to continuous learning and improvement, and I am excited about the opportunity to contribute to innovative blockchain projects with like-minded teams.
 
 
 Here are some ideas to get you started:
